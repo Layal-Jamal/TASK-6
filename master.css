@@ -1,0 +1,74 @@
+*{
+    padding: 0;
+    margin: 0;
+   box-sizing: border-box;
+    font-family: "Playfair", serif;
+    font-weight: 400;
+}
+.container-fluid{
+background-color: #f3f2ec;
+}
+#navbarSupportedContent a:hover{
+    color: #dfb678;
+}
+#navbarSupportedContent .nav-link.active{
+    color: #dfb678;
+}
+#carouselExampleDark{
+    background-color: #f3f2ec;
+}
+.read-more{
+background-color: #f3f2ec;
+}
+.section-four,
+.section-two {
+    background-color: #f3f2ec;
+}
+
+.section-three,
+.section-five{
+    background-color: #edebe4;
+}
+.section-five input{
+    background-color: #edebe4;
+}
+.section-five .send{
+    background-color: #edebe4;
+
+}
+
+.life-of-the-wild,
+.birds-gonna-be-happy{
+    font-size: 60px;
+}
+.read-more{
+    border: 1px #dfb678 solid;
+}
+.read-more a{
+    color: #dfb678;
+    font-weight: bold;
+}
+#carouselExampleDark {
+    background-image: none;
+}
+.carousel-control-next-icon,
+.carousel-control-prev-icon {
+    background-image: none !important;
+}
+.section-one {
+    background-color: #edebe4;;
+}
+.card img{
+    width: 300px;
+}
+.TemplatesJungle{
+    color: #dfb678;
+}
+
+@media screen and (max-width:991px){
+    .carousel-caption h1,
+    .carousel-caption p,
+    .carousel-caption .read-more {
+        text-align: center;
+    }
+}
